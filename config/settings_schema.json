@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Header",
+    "settings": [
+      {
+        "label": "Header Logo",
+        "id": "header_logo",
+        "type": "image_picker",
+        "default": "https://dev-cocoshop-images.s3.us-east-2.amazonaws.com/cocoa-kingdom2.png"
+      }
+    ]
+  }
+]
